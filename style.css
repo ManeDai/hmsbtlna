@@ -1,0 +1,32 @@
+
+
+
+h1,h2{
+    font-family:  sans-serif;
+    color: grey;
+    font-size: 20px;
+    
+  }
+
+  h1{
+    font-weight: normal;
+    text-decoration: underline;
+    text-decoration-color: blue;
+    text-decoration-thickness: 2px;
+  }
+
+  body {
+    background-color: rgb(131, 184, 179);
+  }
+
+  p{
+    font-style: oblique;
+    font-style: italic;/* those are the same meaning*/
+     background-color:rgb(247, 227, 114);/* đây là một comment trong css*/
+    border: 1px solid black;
+     color:rgb(0, 0, 0);
+     font-family:"mane", sans-serif;
+  }
+  @font-face {
+    font-family: "mane";
+    src: url(GreatVibes-Regular.otf)}

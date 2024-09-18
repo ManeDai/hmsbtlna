@@ -1,0 +1,25 @@
+
+
+#test{color: rgba(114, 12, 12, 0.584); }
+body {
+background-color:#0a6d4c;
+margin-left: 10%;
+margin-right: 10%;
+border: 2px solid #00704A;
+padding: 10px 10px 10px 10px;
+font-family: sans-serif;  } 
+p{font-family: cursive;  }
+p.brown{color:rgba(114, 12, 12, 0.584); }
+h3{ text-decoration: underline;}
+h2{
+  text-decoration: underline;
+  text-decoration-color: rgba(114, 12, 12, 0.584);
+  text-decoration-thickness: 2px;
+}
+  h1{
+    border: 2px solid rgba(114, 12, 12, 0.584);
+    background-color: rgba(130, 43, 43, 0.562);
+    color:azure
+  }
+
+ 
